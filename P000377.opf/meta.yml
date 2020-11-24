@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG5476
   title: མཛོད་ཀྱི་རྣམ་བཤད་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ་
-  volume: ''
+  volume:
+    77e9c6cf9f9b49b3ad550dfd71ab87f7:
+      image_group_id: I1KG5481
+      title: Volume 1 of mdzod kyi rnam bshad chos mngon rgya mtsho'i snying po
+      volume_number: 1
+      total_pages: 394
   author: ''
+ebook_metadata:
+  title: མཛོད་ཀྱི་རྣམ་བཤད་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ་
+  author: ''
+  sku: P000377
+  cover: cover.jpg
+  layers:
+  - pagination
